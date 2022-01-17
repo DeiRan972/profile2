@@ -1,0 +1,119 @@
+body{
+width: 100%;
+height: auto;
+
+}
+p,h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.moi{
+margin: 0 auto;
+padding: 10px;
+background-color:white;
+text-align:center;
+border:0px black solid;
+width: 39%;
+height: 300px;
+border-radius: 10px;
+margin-bottom: 10px;
+box-shadow:rgba(0,0,0,0.2) 0px 0px 16px;
+}
+.moi h1{
+    color: grey;
+    font-size: 22px;
+    font-weight: 600;
+}
+.moi img{
+    height: 130px;
+    width: 140px;
+    border-radius: 60%;
+}
+.moi p{ 
+    font-weight: 500;
+ 
+}
+.moi a{
+text-decoration: none;
+background-color:#6B72E1;
+color:white;
+font-family: Arial, Helvetica, sans-serif;
+padding: 7px;
+border-radius: 10px;
+margin: 10px;
+}
+.moi a:hover{
+    background-color:red;
+    transition: 0.2s ease-in-out all;
+}
+
+.UX{
+    margin: 0 auto;
+    text-align: center;
+    /* border:1px black solid; */
+    width: 40%; 
+    height: 200px;
+    border-radius: 10px;
+    margin-bottom: 10px; 
+    box-shadow:rgba(0,0,0,0.2) 0px 0px 16px;
+
+}
+.UX h1{
+    color: gray;
+    padding-top: 40px;
+}
+.front{
+    margin: 0 auto;
+    text-align: center;
+    /* border:1px black solid;  */
+    width: 40%;
+    height: 200px;
+    border-radius: 10px;
+    margin-bottom: 10px; 
+    box-shadow:rgba(0,0,0,0.2) 0px 0px 16px;
+}
+.front h1{
+    color: gray;
+    padding-top: 40px;
+}
+.front  p{
+}
+.Passion{
+    margin: 0 auto;
+    text-align: center;
+    height: auto;
+    /* border:1px black solid; */
+    width: 40%;
+    height: 200px;
+    border-radius: 10px;
+    margin-bottom: 10px; 
+    box-shadow:rgba(0,0,0,0.2) 0px 0px 16px;
+}
+.Passion h1{
+    color: grey;
+    padding-top: 40px;
+}
+.follow{
+    margin: 0 auto;
+ text-align: center;
+ /* border:0px black solid;  */
+ width: 40%;
+ height: 200px;
+ border-radius: 10px; 
+ margin-bottom: 10px;
+ box-shadow:rgba(0,0,0,0.2) 0px 0px 16px;
+}
+.follow h1{
+    color: gray;
+    padding-top: 40px;
+}
+.follow i{
+    font-size: 50px;
+    padding: 10px;
+}
+.follow i:hover{
+    color: #6B72E1;
+    transition: 0.2 ease-in-out all;
+}
+b{
+    color: red;
+}
